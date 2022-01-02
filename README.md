@@ -1,4 +1,14 @@
-### Hi guy 👋
+<h2>
+    Hi guys 👋
+</h2>
+
+<p>
+    I'm Thomas and currently in first year of master's degree at university of Orléans 🇫🇷
+</p>
+
+<p>
+    📫 How to reach me : <a href="mailto:pro@thomas-chevalier.fr" class="btn btn-primary">Email</a>
+</p>
 
 <!--
 **thomas-che/thomas-che** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
