@@ -3,11 +3,11 @@
 </h2>
 
 <p>
-    I'm Thomas and currently in first year of master's degree at university of Orléans 🇫🇷
+    I'm Thomas and I will soon be graduating with a Master's degree in MIAGE SIR from the University of Orléans 🇫🇷
 </p>
 
 <p>
-    📫 How to reach me : <a href="mailto:pro@thomas-chevalier.fr" class="btn btn-primary">Email</a>
+    📫 How to reach me : <a href="mailto:contact.thomas.chevalier@gmail.com" class="btn btn-primary">Email</a>
 </p>
 
 <!--
