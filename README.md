@@ -7,7 +7,7 @@
 </p>
 
 <p>
-    📫 How to reach me : <a href="mailto:contact.thomas.chevalier@gmail.com" class="btn btn-primary">Email</a>
+    📫 How to reach me : <a href="mailto:thomas.chevalier.contact@gmail.com" class="btn btn-primary">Email</a>
 </p>
 
 <!--
